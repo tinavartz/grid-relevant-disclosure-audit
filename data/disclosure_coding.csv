@@ -1,0 +1,6 @@
+Company,Plot order,Report label,Report year,Underlying data year,Boundary,Total energy,DC-only MWh,Facility-level,Region-resolved,Spatially attributable electricity,Renewable accounting transparency,Emissions (Scope 2),Renewable %,PUE,Hourly CFE
+Google,1,Google 2026 Environmental Report,2026,2025,Partial,Yes,Yes,No,No,No,Partial,Yes,Yes,Yes,Yes
+Microsoft,2,Microsoft 2026 Environmental Sustainability Report + Environmental Data Fact Sheet,2026,FY2025,Partial,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Partial
+Amazon,3,2025 Amazon Sustainability Report,2025,2025,Partial,No,No,No,No,No,Partial,Yes,Yes,Yes,No
+Meta,4,Meta 2025 Sustainability Report + Environmental Data Index,2025,2024,Partial,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+Apple,5,Apple Environmental Progress Report 2026,2026,FY2025,Partial,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
