@@ -41,3 +41,7 @@ The manuscript uses a source-selection cutoff of 10 August 2026 and retains each
 - [Apple Environmental Progress Report 2026](https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2026.pdf)
 
 The repository currently has no DOI-backed archival release.
+
+## License
+
+Code and associated software documentation: [MIT](LICENSE). Original structured data and authored dataset annotations: [CC BY 4.0](data/LICENSE-CC-BY-4.0.txt). Corporate source documents and other third-party material retain their respective rights.

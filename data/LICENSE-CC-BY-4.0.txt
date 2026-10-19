@@ -1,0 +1,22 @@
+Original structured data: Creative Commons Attribution 4.0 International
+SPDX-License-Identifier: CC-BY-4.0
+
+The original selection, structure, coding, and authored annotations in
+disclosure_coding.csv and the accompanying Supplementary Data 1 workbook
+and table exports are licensed under CC BY 4.0.
+
+Attribution: Tina Vartziotis, Lisa Thalheimer, and Francesca Dominici,
+Grid-Level Verifiability of Renewable Electricity Claims in Hyperscale
+Data Centers: code and Supplementary Data 1.
+https://github.com/tinavartz/grid-relevant-disclosure-audit
+
+License terms: https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Retain attribution and the license link, and indicate changes when sharing
+adaptations. The software is separately licensed under the MIT License.
+
+Corporate reports, quoted source material, trademarks, and other third-party
+materials remain subject to their respective rights. This license applies
+only to the original material the authors are entitled to license; it does
+not relicense the corporate source documents. Corporate PDFs are not included.
