@@ -1,8 +1,8 @@
 # Grid-relevant disclosure audit
 
-Reproduction code for *Grid-Level Verifiability of Renewable Electricity Claims in Hyperscale Data Centers* by Tina Vartziotis, Lisa Thalheimer, and Francesca Dominici.
+Reproduction code for *Public disclosures cannot verify renewable electricity claims by hyperscale data-center operators* by Tina Vartziotis, Lisa Thalheimer, and Francesca Dominici.
 
-The audit identifies missing and incomplete disclosure across five information requirements: data-center electricity quantity, spatial attribution, time-based alignment, boundary clarity, and renewable-electricity accounting transparency. Scores summarize disclosure coverage; interpret them alongside each company?s dimension-level profile.
+The audit identifies missing and incomplete disclosure across five information requirements: data-center electricity quantity, spatial attribution, time-based alignment, boundary clarity, and renewable-electricity accounting transparency. Scores summarize disclosure coverage; interpret them alongside each company's dimension-level profile.
 
 ## Reproduce
 
@@ -28,9 +28,9 @@ The notebooks can also be run from the repository root or `code/`. Figure typogr
 
 ## Coding version
 
-This snapshot includes the October 2026 manuscript corrections: Amazon?s total-energy disclosure is No; Meta?s accounting transparency is Yes, supported by the FY2024 Environmental Data Index?s dual Scope 2 accounting and one EAC retired per MWh of global electricity use. At Partial = 0.5, scores are Google 3.0, Microsoft 4.0, Amazon 1.0, Meta 3.5, and Apple 3.5. Region-resolved electricity remains a separate descriptive metric.
+This is the final coding used in the submitted manuscript. All 50 coded items were coded independently by two human coders (T.V. and L.T., the second coder blind to the first coding). Before reconciliation the coders agreed on 40 of 50 items (80%; Cohen's kappa 0.64; Gwet's AC1 0.72). The 10 disagreements were resolved by consensus in November 2026. Relative to the earlier single-coder version, three cells changed to Yes: Google's renewable-electricity accounting transparency, and Meta's and Apple's boundary clarity. At Partial = 0.5, the scores are Google 3.5, Microsoft 4.0, Amazon 1.0, Meta 4.0, and Apple 4.0. Region-resolved electricity remains a separate descriptive metric.
 
-The manuscript uses a source-selection cutoff of 10 August 2026 and retains each company?s disclosed reporting period. Independent duplicate human coding is pending. This repository does not include confidential material, manuscript files, review comments, or corporate PDF copies.
+The manuscript uses a source-selection cutoff of 10 August 2026 and retains each company's disclosed reporting period. This repository does not include confidential material, manuscript files, review comments, or corporate PDF copies.
 
 ## Primary reports
 
