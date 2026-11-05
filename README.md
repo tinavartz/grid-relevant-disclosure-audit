@@ -40,7 +40,7 @@ The manuscript uses a source-selection cutoff of 10 August 2026 and retains each
 - [Meta 2025 Sustainability Report](https://sustainability.atmeta.com/wp-content/uploads/2025/08/Meta_2025-Sustainability-Report_.pdf) and [Environmental Data Index](https://sustainability.atmeta.com/wp-content/uploads/2025/10/Meta_2025-Environmental-Data-Index.pdf)
 - [Apple Environmental Progress Report 2026](https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2026.pdf)
 
-The repository currently has no DOI-backed archival release.
+The version used for the article (v1.0.0), together with the complete Supplementary Data 1, is archived at Zenodo: https://doi.org/10.5281/zenodo.23983022
 
 ## License
 
